@@ -18,8 +18,13 @@ source ~ /.profilesource ~ /.cargo/env
 ### Устанавливаем ноду из репозитория (chaos-testnet):
 ```
 cd
-git clone https://github.com/zeeka-network/bazuka && cd bazuka
+
+git clone https://github.com/zeeka-network/bazuka
+
+cd bazuka
+
 git pull origin master
+
 cargo install --path .
 ```
 ### Задаем переменные, первую переменную он подставит сам, вторую задайте сами.
