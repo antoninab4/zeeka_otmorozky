@@ -1,6 +1,6 @@
 ## zeeka_otmorozky
 # Чистая установка только клиента !!!
-# Установка узла Zeeka и майнера
+# Установка узла Zeeka
 ### Обновляем систему
 ```
 sudo apt update && sudo apt upgrade -y
