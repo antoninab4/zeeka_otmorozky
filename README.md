@@ -13,7 +13,7 @@ sudo apt install wget jq git libssl-dev cmake -y
 ```
 sudo apt install curl build-essential gcc make -y
 curl https://sh.rustup.rs -sSf | sh -s -- -y
-source ~/.profilesource ~/.cargo/env
+source ~ /.profilesource ~ /.cargo/env
 ```
 ### Устанавливаем ноду из репозитория (chaos-testnet):
 ```
